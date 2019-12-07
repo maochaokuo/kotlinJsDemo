@@ -18,6 +18,10 @@
     (ex: chrome by press F12 or Ctrl-Shift-J, "console" part)
     
 ### lesson 2 or above
+1. lesson 2, pure kotlin language
+2. lesson 3, dom object
+3. lesson 4, kotlinx.html, 要安裝一個jar, 看起來沒什麼特別。先跳過
+4. lesssn 5, interact with javascript
 
 (see source code comments)
 

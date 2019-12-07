@@ -36,4 +36,8 @@ fun main(args: Array<String>) {
 //    root!!.appendChild(div)
 
     // lesson 4
+
+    // lesson 5
+    val xInJavascript:dynamic = js("window.xInJavascript") // how we access in JavaScript
+    println("xInJavascript=$xInJavascript")
 }
