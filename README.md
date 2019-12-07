@@ -17,7 +17,7 @@
 5. the println result will be in browser developer tool
     (ex: chrome by press F12 or Ctrl-Shift-J, "console" part)
     
-### lesson 2
+### lesson 2 or above
 
 (see source code comments)
 
@@ -25,4 +25,8 @@
 1. Ctrl-F9 build
 2. Ctrl-K commit, type in description
 3. then Ctrl-Alt-K push
+4. Ctrl-S, save all
+5. block comment
+  1. Ctrl-/ (toggle selected line comment)
+  2. Ctrl-Shift-/ (toggle block comment)
     
