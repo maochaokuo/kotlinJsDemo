@@ -2,6 +2,8 @@
 
 ## IntelliJ
 
+### lesson 1
+
 1. add src/Main.kt (may type psvma for a default main)
 2. just build it
 3. add root index.html, and manually add:
@@ -14,3 +16,4 @@
     and also which browser, then that is it
 5. the println result will be in browser developer tool
     (ex: chrome by press F12 or Ctrl-Shift-J, "console" part)
+    
