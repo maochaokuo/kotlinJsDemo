@@ -38,6 +38,6 @@ fun main(args: Array<String>) {
     // lesson 4
 
     // lesson 5
-    val xInJavascript:dynamic = js("window.xInJavascript") // how we access in JavaScript
-    println("xInJavascript=$xInJavascript")
+    val xyz:dynamic = js("window.xyz") // how we access in JavaScript
+    println(xyz )
 }
