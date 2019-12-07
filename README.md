@@ -17,3 +17,6 @@
 5. the println result will be in browser developer tool
     (ex: chrome by press F12 or Ctrl-Shift-J, "console" part)
     
+### lesson 2
+
+(see source code comments)
