@@ -20,3 +20,9 @@
 ### lesson 2
 
 (see source code comments)
+
+### hot keys (short cut)
+1. Ctrl-F9 build
+2. Ctrl-K commit, type in description
+3. then Ctrl-K
+    
