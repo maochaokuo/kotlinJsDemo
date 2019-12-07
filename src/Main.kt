@@ -39,5 +39,7 @@ fun main(args: Array<String>) {
 
     // lesson 5
     val xyz:dynamic = js("window.xyz") // how we access in JavaScript
-    println(xyz )
+    println("xyz=$xyz" )
+    val user:dynamic = js("window.user")
+    println(user.firstName )
 }
