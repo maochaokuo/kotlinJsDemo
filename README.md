@@ -24,5 +24,5 @@
 ### hot keys (short cut)
 1. Ctrl-F9 build
 2. Ctrl-K commit, type in description
-3. then Ctrl-K
+3. then Ctrl-Alt-K push
     
