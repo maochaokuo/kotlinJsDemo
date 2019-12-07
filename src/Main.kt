@@ -42,4 +42,8 @@ fun main(args: Array<String>) {
     println("xyz=$xyz" )
     val user:dynamic = js("window.user")
     println(user.firstName )
+    val myFunction1:dynamic = js("window.myFunction1")
+    myFunction1()
+    val myFunction2:dynamic = js("window.myFunction2")
+    myFunction2()
 }
