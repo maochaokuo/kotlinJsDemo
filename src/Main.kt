@@ -30,6 +30,9 @@ fun main(args: Array<String>) {
     println(dtl.length)
     println(dtl.get(0))// [0])
     println(dtl.get(1))//[1])
+    dtl.add("cls3") // classList add
+    dtl.remove("cls1") // classList remove
+    println(dtl)
     //println(dtl[2])
     //print(b3!!.classList)
     h1.textContent="Hello 2"
