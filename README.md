@@ -34,3 +34,5 @@
   1. Ctrl-/ (toggle selected line comment)
   2. Ctrl-Shift-/ (toggle block comment)
     
+## then...
+1. classList showed up
