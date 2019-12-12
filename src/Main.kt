@@ -1,5 +1,8 @@
 import org.w3c.dom.get
 import kotlin.browser.document
+import kotlin.browser.localStorage
+import kotlin.browser.sessionStorage
+import kotlin.browser.window
 
 fun main(args: Array<String>) {
     // lesson 1
